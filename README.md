@@ -1,4 +1,5 @@
-graph TD
+
+```mermaid
 n_1[my-1st-project/]
 n_2[src/]
 n_3[components/]
@@ -42,3 +43,4 @@ n_1 --> n_19
 n_1 --> n_20
 n_1 --> n_21
 n_1 --> n_22
+```
