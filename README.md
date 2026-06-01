@@ -1,4 +1,6 @@
-![Static Badge](https://img.shields.io/badge/License-Apache?style=plastic&logo=apache-spark&logoColor=E25A1C)
+## CodeCat
+![Static Badge](https://img.shields.io/badge/LICENSE?style=plastic&logo=apachespark&logoColor=E25A1C&label=Apache&color=191A1B)
+
 
 codecat 🐱 `codecat` is a zero-dependency, Unix-styled automated Git utility that sits quietly in your development workflow. It monitors your local repository, analyzes file state modifications and diff structures, constructs precise Conventional Commits messages, and synchronizes with your remote repository—all entirely offline. Designed by n1nerlang, `codecat` proves that you don't need heavy API calls or large language models to maintain a beautiful, semantic Git history. 
 
